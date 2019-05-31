@@ -1,1 +1,1 @@
-# curso-graphql
+# Curso GraphQL
