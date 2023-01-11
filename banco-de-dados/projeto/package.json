@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.16.3",
+    "knex": "^2.4.0",
     "mysql": "^2.16.0"
   }
 }
